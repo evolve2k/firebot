@@ -30,3 +30,8 @@ Edit the config file with your basic details.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+firebot
+=======
+
+A quick little app to alert me of fire warnings around my area
